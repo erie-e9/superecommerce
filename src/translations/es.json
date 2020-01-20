@@ -1,0 +1,20 @@
+{
+    "welcome": "bienvenido",
+    "hello": "hola",
+    "thank you": "gracias",
+    "bye": "adiós",
+    "service": "servicio",
+    "services": "servicios",
+    "map": "mapa",
+    "order": "orden",
+    "orders": "ordenes",
+    "help": "ayuda",
+    "schedule": "horarios",
+    "warranty": "garantia",
+    "contact us": "contáctanos",
+
+    "login": "ingresar",
+    "signup": "registro",
+    "date": "fecha",
+    "ready": "listo"
+}

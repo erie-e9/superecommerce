@@ -1,0 +1,25 @@
+{
+    "welcome": "welcome",
+    "hello": "hi everyone",
+    "thank you": "thank you",
+    "bye": "bye",
+    "service": "service",
+    "services": "services",
+    "map": "map",
+    "order": "order",
+    "orders": "orders",
+    "help": "help",
+    "schedule": "schedule",
+    "warranty": "warranty",
+    "contact us": "contact us",
+
+    "login": "login",
+    "signup": "signup",
+    "date": "date",
+    "ready": "ready",
+    "email": "email",
+    "password": "password",
+    "name": "name",
+    "lastname": "lastname",
+    "telephone": "telephone"
+}
